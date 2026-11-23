@@ -184,7 +184,7 @@ def print_text_report(data):
     print(f"{SCORE_TITLE}: {data['score']}/100 [{data['overall_status']}]")
     
     if data["broken_links"]:
-        print("\nLinks com Falha Detectados:")
+        print("\nFailed Links Detected:")
         for bl in data["broken_links"]:
             print(f"  - [{bl['status']}] {bl['url']} ({bl['reason']})")
 

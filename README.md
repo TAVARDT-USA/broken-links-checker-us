@@ -5,7 +5,7 @@
 
 Enterprise-grade verification of internal navigation anchors and external URL status codes.
 
-Engineered and maintained by the enterprise systems and crawl efficiency practice at **TAVARDT USA**.
+Engineered and maintained by the enterprise systems and crawl efficiency practice at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python broken_links_scanner.py https://enterprise.com -json
 Access the interactive web suite:
 
 * **Official Broken Link Checker**
-* **TAVARDT USA Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Enterprise Inquiries
 
-For technical consultations conforming to NIST Digital Standards and Google Search Quality Guidelines, reach out to **TAVARDT USA**.
+For technical consultations conforming to NIST Digital Standards and Google Search Quality Guidelines, reach out to **TAVARDT**.
 
 ***
 

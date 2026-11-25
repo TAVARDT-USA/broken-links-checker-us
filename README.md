@@ -6,8 +6,6 @@
 
 Enterprise-grade verification of internal navigation anchors and external URL status codes.
 
-Engineered and maintained by the enterprise systems and crawl efficiency practice at **TAVARDT**.
-
 ***
 
 ## Broken Link Auditing Capabilities
@@ -38,15 +36,6 @@ python broken_links_scanner.py https://enterprise.com -json
 
 ***
 
-## Production Cloud Console
-
-Access the interactive web suite:
-
-* **Official Broken Link Checker**
-* **TAVARDT Portal**
-
-***
-
 ## Enterprise Inquiries
 
 For technical consultations conforming to NIST Digital Standards and Google Search Quality Guidelines, reach out to **TAVARDT**.
@@ -62,7 +51,7 @@ For technical consultations conforming to NIST Digital Standards and Google Sear
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 

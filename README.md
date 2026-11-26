@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Broken Link Checker and HTTP 404 Error Auditor
 
 [![Broken Link Checker](https://img.shields.io/badge/TAVARDT-Broken%20Links-5b3cf5.svg)](https://tools.tavardt.com/broken-link-checker/)
